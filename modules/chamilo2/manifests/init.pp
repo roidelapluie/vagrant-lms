@@ -1,7 +1,7 @@
 class chamilo2 {
   class {
     'lms':
-      source       => 'http://download.chamilo.org/',
+      source       => 'https://bitbucket.org/chamilo/chamilo/downloads/chamilo-aldrin-2.1.zip',
       folder       => 'chamilo2',
       targetfolder => '',
       targetfile   => 'index.php',
